@@ -1,10 +1,6 @@
-# TSN_DEMO_08_JSOUP_Rates
-Курсы валют (JSOUP)
+# NIE_Lab8_MobileDevelopment
+# Practical work №8 of Mobile Development
 
-![Screenshot](screenshot2.png)
+![Screenshot](Screenshot_1.png)
 
-![Screenshot](jsoup1.jpg)
-
-![Screenshot](jsoup2.jpg)
-
-![Screenshot](jsoup3.jpg)
+![Screenshot](Screenshot_3.png)
